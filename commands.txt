@@ -1,0 +1,1 @@
+conda create --name anpr_py38 python=3.8
